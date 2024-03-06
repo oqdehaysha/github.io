@@ -29,11 +29,16 @@ a:hover{
 	color:#eb8db5;
 	text-decoration:solid;
 }
-ul li {
-	text-align:justify;
-	position: relative;
-    left: 40%;
-	
+p {
+	margin:10px;
+}
+div {
+	text-align:center;
+}
+ul {
+	display:inline-block;
+    text-align:left;
+	margin:5px;
 }
 th {
 	font-size:30px;
