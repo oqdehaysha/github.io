@@ -1,0 +1,71 @@
+body {
+	background-image:url("webm3.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	text-align:center;
+	font-size:30px;
+	font-family:armenian;
+	color:#103552
+	
+}
+h3 {
+	text-align:center;
+	color:#0e456e;
+	margin:5px;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+}
+a {
+	color:#103552;
+	text-decoration:underline;
+	margin:5px;
+	padding: 10px;
+}
+a:hover{
+	color:#eb8db5;
+	text-decoration:solid;
+}
+ul li {
+	text-align:justify;
+	position: relative;
+    left: 40%;
+	
+}
+th {
+	font-size:30px;
+	border:4px solid #4b8cbd;
+	margin:5px 0;
+	padding: 10px;
+}
+label {
+	display:block;
+}
+input,textarea {
+	font-size:30px;
+	color:#0e456e;
+	width: 20%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #4b8cbd;
+}
+button {
+	display:block;
+	background-color:#4b8cbd;
+	font-size:20px;
+	font-weight:bold;
+	position: relative;
+    top: 50%;
+    left: 40%;
+	width: 20%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #4b8cbd;
+}
+button:hover {
+	color:#103552;
+	background-color:#eb8db5;
+}
